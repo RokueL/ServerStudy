@@ -1,0 +1,15 @@
+E:\ServerStudy\ConsoleApp2\SubStudy\bin\Debug\net7.0\SubStudy.exe
+E:\ServerStudy\ConsoleApp2\SubStudy\bin\Debug\net7.0\SubStudy.deps.json
+E:\ServerStudy\ConsoleApp2\SubStudy\bin\Debug\net7.0\SubStudy.runtimeconfig.json
+E:\ServerStudy\ConsoleApp2\SubStudy\bin\Debug\net7.0\SubStudy.dll
+E:\ServerStudy\ConsoleApp2\SubStudy\bin\Debug\net7.0\SubStudy.pdb
+E:\ServerStudy\ConsoleApp2\SubStudy\obj\Debug\net7.0\SubStudy.GeneratedMSBuildEditorConfig.editorconfig
+E:\ServerStudy\ConsoleApp2\SubStudy\obj\Debug\net7.0\SubStudy.AssemblyInfoInputs.cache
+E:\ServerStudy\ConsoleApp2\SubStudy\obj\Debug\net7.0\SubStudy.AssemblyInfo.cs
+E:\ServerStudy\ConsoleApp2\SubStudy\obj\Debug\net7.0\SubStudy.csproj.CoreCompileInputs.cache
+E:\ServerStudy\ConsoleApp2\SubStudy\obj\Debug\net7.0\SubStudy.sourcelink.json
+E:\ServerStudy\ConsoleApp2\SubStudy\obj\Debug\net7.0\SubStudy.dll
+E:\ServerStudy\ConsoleApp2\SubStudy\obj\Debug\net7.0\refint\SubStudy.dll
+E:\ServerStudy\ConsoleApp2\SubStudy\obj\Debug\net7.0\SubStudy.pdb
+E:\ServerStudy\ConsoleApp2\SubStudy\obj\Debug\net7.0\SubStudy.genruntimeconfig.cache
+E:\ServerStudy\ConsoleApp2\SubStudy\obj\Debug\net7.0\ref\SubStudy.dll

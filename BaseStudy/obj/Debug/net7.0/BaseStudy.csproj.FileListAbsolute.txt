@@ -1,0 +1,15 @@
+E:\ServerStudy\BaseStudy\bin\Debug\net7.0\BaseStudy.exe
+E:\ServerStudy\BaseStudy\bin\Debug\net7.0\BaseStudy.deps.json
+E:\ServerStudy\BaseStudy\bin\Debug\net7.0\BaseStudy.runtimeconfig.json
+E:\ServerStudy\BaseStudy\bin\Debug\net7.0\BaseStudy.dll
+E:\ServerStudy\BaseStudy\bin\Debug\net7.0\BaseStudy.pdb
+E:\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+E:\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.AssemblyInfoInputs.cache
+E:\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.AssemblyInfo.cs
+E:\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.csproj.CoreCompileInputs.cache
+E:\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.sourcelink.json
+E:\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.dll
+E:\ServerStudy\BaseStudy\obj\Debug\net7.0\refint\BaseStudy.dll
+E:\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.pdb
+E:\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.genruntimeconfig.cache
+E:\ServerStudy\BaseStudy\obj\Debug\net7.0\ref\BaseStudy.dll
