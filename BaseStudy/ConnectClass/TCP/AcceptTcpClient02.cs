@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp1.ConnectClass.TCP;
 
-public class accepttcpclient02
+public class AcceptTcpClient02
 {
     // static void Main(string[] args)
     // {

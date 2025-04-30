@@ -3,7 +3,7 @@ using System.Text;
 
 namespace ConsoleApp1.ConnectClass.TCP;
 
-public class tcpClient01
+public class TcpClient01
 {
     // static void Main(string[] args)
     // {

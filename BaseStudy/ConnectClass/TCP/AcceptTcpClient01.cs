@@ -3,7 +3,7 @@ using System.Net.Sockets;
 
 namespace ConsoleApp1.ConnectClass.TCP;
 
-public class accepttcpclient01
+public class AcceptTcpClient01
 {
     // static void Main(string[] args)
     // {
