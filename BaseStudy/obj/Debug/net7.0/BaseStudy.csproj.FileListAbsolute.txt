@@ -13,3 +13,17 @@ E:\ServerStudy\BaseStudy\obj\Debug\net7.0\refint\BaseStudy.dll
 E:\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.pdb
 E:\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.genruntimeconfig.cache
 E:\ServerStudy\BaseStudy\obj\Debug\net7.0\ref\BaseStudy.dll
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.AssemblyInfoInputs.cache
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.AssemblyInfo.cs
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.dll
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\obj\Debug\net7.0\refint\BaseStudy.dll
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.pdb
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\bin\Debug\net7.0\BaseStudy.exe
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\bin\Debug\net7.0\BaseStudy.deps.json
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\bin\Debug\net7.0\BaseStudy.runtimeconfig.json
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\bin\Debug\net7.0\BaseStudy.dll
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\bin\Debug\net7.0\BaseStudy.pdb
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\obj\Debug\net7.0\BaseStudy.genruntimeconfig.cache
+C:\Users\kazix\Desktop\ServerStudy\BaseStudy\obj\Debug\net7.0\ref\BaseStudy.dll
