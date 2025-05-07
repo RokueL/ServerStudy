@@ -10,13 +10,13 @@ namespace ConsoleApp1
     {
     }
 
-    class Test
-    {
-        public void Print()
-        {
-            Console.WriteLine("Test");
-        }
-    }
+    //class test
+    //{
+    //    public void print()
+    //    {
+    //        console.writeline("test");
+    //    }
+    //}
     class Program
     {
         //static void Main(string[] args)
